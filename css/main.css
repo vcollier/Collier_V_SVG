@@ -1,39 +1,11 @@
-@charset "UTF-8";
-/*CSS Doc*/
-
-.hidden
+.image-wrapper
 {
-	display: none;
+	width: 45%;
+	display: inline-block;
 }
 
-#container
+img
 {
-	width: 960px;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin: 0 auto;
-}
-
-#mainHeader
-{
-	display: flex;
-	flex-direction: row;
-}
-
-#mainNav
-{
-	width: 500px;
-}
-
-#menuItems
-{
-	display: flex;
-	flex-direction: row;
-}
-
-.navItem
-{
-	list-style: none;
-	font-size: 30px;
-	padding: 10px;
+	width: 100%;
+	display: block;
 }
