@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/*CSS Doc*/
+
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0 auto;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#mainNav
+{
+	width: 500px;
+}
+
+.navItem
+{
+	font-size: 30px;
+}
