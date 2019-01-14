@@ -25,7 +25,15 @@
 	width: 500px;
 }
 
+#menuItems
+{
+	display: flex;
+	flex-direction: row;
+}
+
 .navItem
 {
+	list-style: none;
 	font-size: 30px;
+	padding: 10px;
 }
