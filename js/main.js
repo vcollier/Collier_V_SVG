@@ -15,7 +15,7 @@
 		debugger;
 	}
 
-	// what eents are we listening for? clicks? mouseover? and what should happen when we hear one?
+	// what eents are we listening for? clicks? mouseover? and what should happen when we hear one
 	badge.addEventListener("click", logBadgeId);
 
 	//debugger;
